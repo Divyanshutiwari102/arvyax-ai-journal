@@ -1,0 +1,6 @@
+com\arvyax\journal\config\CorsConfig$1.class
+com\arvyax\journal\config\CorsConfig.class
+com\arvyax\journal\model\JournalEntry.class
+com\arvyax\journal\repository\JournalRepository.class
+com\arvyax\journal\ArvyaxJournalApplication.class
+com\arvyax\journal\model\EmotionAnalysis.class
